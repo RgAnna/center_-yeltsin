@@ -1,6 +1,11 @@
 # Yeltsin Center Building (Low Poly)
 
-![Project Preview](https://github.com/RgAnna/center_-yeltsin/blob/main/Render/Yeltsin_Center_Render.png)
+![Project Preview](https://github.com/RgAnna/center_-yeltsin/blob/main/%D0%A1enter_Yeltsin_01.png)
+
+
+
+__Preview on Sketchfab:__ [https://skfb.ly/pzsIJ](https://skfb.ly/pzsIJ)  
+
 
 ## Description
 
@@ -31,6 +36,10 @@ This 3D scene features a low poly building modeled after the Yeltsin Center. The
 ___
 
 # Здание Ельцин Центра (Low Poly)
+
+![Project Preview](https://github.com/RgAnna/center_-yeltsin/blob/main/%D0%A1enter_Yeltsin_01.png)
+
+__Preview on Sketchfab:__ [https://skfb.ly/pzsIJ](https://skfb.ly/pzsIJ)  
 
 ## Описание
 
